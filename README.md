@@ -1,1 +1,2 @@
-# test-journey-katya
+# test-journey-katya 
+"Это мой первый проект по автоматическому тестированию"
